@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "alias": ["www.za16.co"],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "status": 301,
+      "headers": { "Location": "https://za16.co/$1" }
+    }
+  ]
+}
