@@ -51,7 +51,7 @@ function Life() {
             have limited time but it&apos;s hard to put it all in context.
             I&apos;ve been trying to remind myself that my time is limited.
             I&apos;ve{' '}built projects around the idea
-            ,and I&apos;ve{' '}written about it.
+            and I&apos;ve{' '}written about it.
             But still, it&apos;s hard to visualize.
           </p>
 
