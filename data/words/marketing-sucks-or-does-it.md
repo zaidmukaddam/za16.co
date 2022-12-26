@@ -1,7 +1,7 @@
 ---
 title: "Marketing Sucks! Or Does It?"
 description: "I have had a somewhat negative mindset towards marketing. It seemed like only sleazy sales people are the ones doing it. This is how I changed my mindset."
-date: "2022-12-25T00:00:00"
+date: "2022-12-26T00:00:00"
 tags: ["Essay", "Opinion"]
 heroImage: "/assets/words/marketing-sucks-or-does-it/coffee-cup.webp"
 ---

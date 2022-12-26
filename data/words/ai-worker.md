@@ -1,7 +1,7 @@
 ---
 title: "Playing with AI - Can it become your coworker?"
 description: "Over the past couple of days, I have toyed around with all this cool AI stuff and this is my documentation on things I enjoyed.."
-date: "2022-12-25T00:00:00"
+date: "2022-12-26T00:00:00"
 tags: ["AI", "Machine Learning", "GPT-3", "Dall E"]
 heroImage: "/assets/words/ai-worker/banner.webp"
 ---
