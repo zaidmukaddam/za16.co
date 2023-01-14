@@ -24,7 +24,7 @@ I recently came across news of StackOverflow banning comment and replies made us
 
 **ScanGPT** → _https://scangpt.space_
 
-I just finished it. I started it two weeks ago. It's really very simple to use. Add it to Chrome, and on any web page, click on the extension icon and voilà.
+I started it two weeks ago. It's really very simple to use. Add it to Chrome, and on any web page, click on the extension icon and voilà.
 
 In a matter of seconds, the Extension scans the page and brings you important information, such as:
 - Number of False Paragraphs
