@@ -36,7 +36,7 @@ In a matter of seconds, the Extension scans the page and brings you important in
 
 # Conclusion
 
-If you've made it this far, thank you very much. I put a lot of effort into this project and I want the dev community to enjoy it. I have many updates already being developed and I hope they will motivate me to continue them.
+If you've made it this far, thank you very much. I put a lot of effort into this project and I want you all to use it. I hope you like it.
 
 Link to Star the repository. → https://github.com/zaidmukaddam/scan-gpt
 
