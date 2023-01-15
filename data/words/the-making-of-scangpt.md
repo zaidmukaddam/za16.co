@@ -34,7 +34,7 @@ In a matter of seconds, the Extension scans the page and brings you important in
 
 # BTS 
 
-ScanGPT makes use of OpenAI's pre-trained model roberta-base-openai-detector, which has been deployed on huggingface spaces.
+ScanGPT makes use of OpenAI's pre-trained model RoBERTa, which has been deployed on huggingface spaces.
 
 I integrated it with an API that returns a JSON object containing the probability of a paragraph being GPT-generated text.
 
