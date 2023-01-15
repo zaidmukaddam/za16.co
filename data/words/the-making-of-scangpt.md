@@ -32,7 +32,7 @@ In a matter of seconds, the Extension scans the page and brings you important in
 - Paragraph most likely to be False
 - Chance of the Page being Fake
 
-#BTS 
+# BTS 
 
 ScanGPT makes use of OpenAI's pre-trained model roberta-base-openai-detector, which has been deployed on huggingface spaces.
 
