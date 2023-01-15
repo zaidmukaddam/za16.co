@@ -1,5 +1,5 @@
 ---
-title: "The Idea behind making of the ChatGPT Killer: ScanGPT"
+title: "The Idea behind and Making of ScanGPT"
 description: "ScanGPT is a tool that can detect if a text was written by a human or by an artificial intelligence."
 date: "2023-01-14T00:00:00"
 tags: ["chatbot", "gpt", "ai"]
