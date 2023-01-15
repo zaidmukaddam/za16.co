@@ -1,7 +1,7 @@
 ---
 title: "The Idea behind and Making of ScanGPT"
 description: "ScanGPT is a tool that can detect if a text was written by a human or by an artificial intelligence."
-date: "2023-01-14T00:00:00"
+date: "2023-01-15T00:00:00"
 tags: ["chatbot", "gpt", "ai"]
 heroImage: "/assets/words/the-making-of-scangpt/scangpt-matrix.jpg"
 ---
