@@ -54,6 +54,8 @@ ScanGPT can be used in many ways. Here are some examples:
 - Detecting AI-generated text in research papers
 - Detecting AI-generated text in documents
 
+---
+
 # Shameless Plug
 
 Link to **ScanGPT** → _https://scangpt.space_
